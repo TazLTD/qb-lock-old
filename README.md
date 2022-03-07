@@ -1,4 +1,4 @@
-# tz-lock
+# qb-lock
 NoPixel inspired Lockpick Minigame
 
 Pre-view:
