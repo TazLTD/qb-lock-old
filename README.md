@@ -11,5 +11,6 @@ If you need help!
 If you need help to change time or circles go to client.lua
 
 Circles value 16 row
+
 Time value  17 row
 
