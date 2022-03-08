@@ -14,7 +14,7 @@ function StartLockPickCircle(circles, seconds, callback)
     SendNUIMessage({
         action = 'start',
         value = 3,
-		time = 5,
+	time = 5,
     })
     while NUI_status do
         Wait(5)
